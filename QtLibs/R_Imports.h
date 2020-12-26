@@ -1,0 +1,27 @@
+#pragma once
+
+#include <QRadialGradient>
+#include <QRadioButton>
+#include <QRandomGenerator>
+#include <QRandomGenerator64>
+#include <QRasterWindow>
+#include <QRawFont>
+#include <QReadLocker>
+#include <QReadWriteLock>
+#include <QRect>
+#include <QRectF>
+#include <QRecursiveMutex>
+#include <QRegExp>
+#include <QRegExpValidator>
+#include <QRegion>
+#include <QRegularExpression>
+#include <QRegularExpressionMatch>
+#include <QRegularExpressionMatchIterator>
+#include <QRegularExpressionValidator>
+#include <QResizeEvent>
+#include <QResource>
+#include <QReturnArgument>
+#include <QRgb>
+#include <QRgba64>
+#include <QRubberBand>
+#include <QRunnable>

@@ -1,0 +1,25 @@
+#pragma once
+
+#include <QValidator>
+#include <QVariant>
+#include <QVariantAnimation>
+#include <QVariantComparisonHelper>
+#include <QVariantHash>
+#include <QVariantList>
+#include <QVariantMap>
+#include <QVarLengthArray>
+#include <QVBoxLayout>
+#include <QVector>
+#include <QVector2D>
+#include <QVector3D>
+#include <QVector4D>
+#include <QVectorIterator>
+#include <QVersionNumber>
+//#include <QVulkanDeviceFunctions>
+//#include <QVulkanExtension>
+//#include <QVulkanFunctions>
+//#include <QVulkanInfoVector>
+//#include <QVulkanInstance>
+//#include <QVulkanLayer>
+//#include <QVulkanWindow>
+//#include <QVulkanWindowRenderer>
