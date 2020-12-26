@@ -1,14 +1,18 @@
 # QtUniversalHeader (Qt版万能头文件)
 
-Just Use this By `#include "All_Imports.h"`
+Just Use this By `#include "All_Imports.h"` (Sort By The First Letter)
+
+只需要通过 `#include "All_Imports.h"` 即可使用 (根据首字母排序)
 
 All Of The Headers of Qt 5.14.2 MinGW73_64
+
 Tips:
 - Y_Imports.h / Z_Imports.h is Empty
 - <QVulkan*> headers are unable on my computer, so I commented them
 - After including this header, it will take a lot of time to compile your project
 
 Qt 5.14.2 MinGW73_64 所有的头文件
+
 提示:
 - Y_Imports.h / Z_Imports.h 头文件为空
 - <QVulkan*> 头文件无法在我的电脑上工作, 所以我把它们注释了
